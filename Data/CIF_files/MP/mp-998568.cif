@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KAgBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35361294
+_cell_length_b   5.33953111
+_cell_length_c   5.35115276
+_cell_angle_alpha   89.88452946
+_cell_angle_beta   89.97814515
+_cell_angle_gamma   90.03146015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgBr3
+_chemical_formula_sum   'K1 Ag1 Br3'
+_cell_volume   152.96654601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00058490  0.00320760  0.00228341  1
+  Ag  Ag1  1  0.50001715  0.51393619  0.50212619  1
+  Br  Br2  1  -0.00008625  0.51401889  0.50530094  1
+  Br  Br3  1  0.49738659  0.01393913  0.49821265  1
+  Br  Br4  1  0.50209760  0.51489918  0.00207680  1

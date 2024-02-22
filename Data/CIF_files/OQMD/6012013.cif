@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cd3GeO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60308949
+_cell_length_b   4.60308949
+_cell_length_c   4.60308965
+_cell_angle_alpha   89.99999601
+_cell_angle_beta   89.99999601
+_cell_angle_gamma   90.00000724
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3GeO
+_chemical_formula_sum   'Cd3 Ge1 O1'
+_cell_volume   97.53225615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50000132  0.50000132  -0.00000001  1
+  Cd  Cd1  1  0.50000120  -0.00000002  0.50000032  1
+  Cd  Cd2  1  -0.00000002  0.50000120  0.50000032  1
+  Ge  Ge3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.50000099  0.50000099  0.50000085  1

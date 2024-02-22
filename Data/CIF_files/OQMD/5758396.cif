@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PrGe3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97834163
+_cell_length_b   5.97834163
+_cell_length_c   5.97834163
+_cell_angle_alpha   136.30450213
+_cell_angle_beta   136.30450213
+_cell_angle_gamma   63.50991988
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGe3Ir
+_chemical_formula_sum   'Pr1 Ge3 Ir1'
+_cell_volume   100.64540126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.99884649  0.99884649  0.00000000  1
+  Ge  Ge1  1  0.65735187  0.15735163  0.50000024  1
+  Ge  Ge2  1  0.15735163  0.65735187  0.50000024  1
+  Ir  Ir3  1  0.76197661  0.76197661  0.00000000  1
+  Pr  Pr4  1  0.42144431  0.42144431  0.00000000  1

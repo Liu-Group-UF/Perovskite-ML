@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_VNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67766400
+_cell_length_b   2.98179500
+_cell_length_c   4.67766459
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.59128904
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VNiO3
+_chemical_formula_sum   'V1 Ni1 O3'
+_cell_volume   64.51120623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.42030668  0.00000000  0.57969241  1
+  O  O1  1  0.07977221  0.00000000  0.31154267  1
+  O  O2  1  0.58739332  0.50000084  0.41260691  1
+  O  O3  1  0.68845921  0.00000000  0.92022857  1
+  V  V4  1  0.83107370  0.50000084  0.16892975  1

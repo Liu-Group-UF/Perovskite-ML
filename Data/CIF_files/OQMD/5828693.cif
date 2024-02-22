@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NdGa3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10522285
+_cell_length_b   6.10475350
+_cell_length_c   4.35832918
+_cell_angle_alpha   69.09287104
+_cell_angle_beta   69.08134343
+_cell_angle_gamma   41.82578553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdGa3Pt
+_chemical_formula_sum   'Nd1 Ga3 Pt1'
+_cell_volume   100.10465671
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.23892416  0.23892574  0.26107439  1
+  Ga  Ga1  1  0.38917136  0.38917129  0.61082898  1
+  Ga  Ga2  1  0.73892476  0.73892627  0.76107412  1
+  Nd  Nd3  1  0.98058957  0.98058950  0.01941077  1
+  Pt  Pt4  1  0.62198915  0.62198908  0.37801119  1

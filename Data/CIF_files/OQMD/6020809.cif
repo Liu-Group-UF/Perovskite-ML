@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CrGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94894400
+_cell_length_b   3.75527500
+_cell_length_c   3.94894442
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.75597068
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrGeO3
+_chemical_formula_sum   'Cr1 Ge1 O3'
+_cell_volume   58.49262863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.51627146  0.00000000  0.48372658  1
+  Ge  Ge1  1  0.89242729  0.50000067  0.10757339  1
+  O  O2  1  0.04071201  0.00000000  0.40552919  1
+  O  O3  1  0.56311578  0.50000067  0.43688268  1
+  O  O4  1  0.59447125  0.00000000  0.95928711  1

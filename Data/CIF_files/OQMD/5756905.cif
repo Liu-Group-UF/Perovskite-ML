@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PrSi3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83051730
+_cell_length_b   5.83051730
+_cell_length_c   5.83051730
+_cell_angle_alpha   137.06559699
+_cell_angle_beta   137.06559699
+_cell_angle_gamma   62.33713747
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSi3Os
+_chemical_formula_sum   'Pr1 Si3 Os1'
+_cell_volume   90.85819390
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.34586374  0.34586374  0.00000000  1
+  Pr  Pr1  1  0.00248854  0.00248854  0.00000000  1
+  Si  Si2  1  0.58186998  0.58186998  0.00000000  1
+  Si  Si3  1  0.74013938  0.24013844  0.50000094  1
+  Si  Si4  1  0.24013844  0.74013938  0.50000094  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LaGa3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97889166
+_cell_length_b   5.97745971
+_cell_length_c   4.29757802
+_cell_angle_alpha   68.95207391
+_cell_angle_beta   68.91644381
+_cell_angle_gamma   42.13148228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGa3Ni
+_chemical_formula_sum   'La1 Ga3 Ni1'
+_cell_volume   95.08303528
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.23178014  0.23177965  0.26822072  1
+  Ga  Ga1  1  0.39485020  0.39485250  0.60514824  1
+  Ga  Ga2  1  0.73177867  0.73178049  0.76822063  1
+  La  La3  1  0.98576607  0.98576837  0.01423237  1
+  Ni  Ni4  1  0.62482752  0.62482983  0.37517092  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_MgReC3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.82806084
+_cell_length_b   5.52820310
+_cell_length_c   5.62699140
+_cell_angle_alpha   60.88858250
+_cell_angle_beta   89.98452343
+_cell_angle_gamma   89.99914439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgReC3
+_chemical_formula_sum   'Mg1 Re1 C3'
+_cell_volume   76.85975996
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.89157426  0.84356864  0.30534992  1
+  C  C1  1  0.89234649  0.85204944  0.84180689  1
+  C  C2  1  0.89155663  0.30547030  0.85424138  1
+  Mg  Mg3  1  0.39151540  0.66713670  0.66157691  1
+  Re  Re4  1  0.39281406  0.99841226  0.00362885  1

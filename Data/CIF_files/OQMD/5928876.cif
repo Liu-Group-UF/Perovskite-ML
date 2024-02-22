@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_AcBeCu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54724412
+_cell_length_b   5.30645550
+_cell_length_c   5.32688407
+_cell_angle_alpha   60.24704861
+_cell_angle_beta   89.48788959
+_cell_angle_gamma   88.86985658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcBeCu3
+_chemical_formula_sum   'Ac1 Be1 Cu3'
+_cell_volume   87.03432256
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.39809339  0.99913595  0.00198285  1
+  Be  Be1  1  0.38631826  0.66739755  0.66631334  1
+  Cu  Cu2  1  0.88522286  0.00179467  0.49926524  1
+  Cu  Cu3  1  0.89780106  0.49842282  0.49998313  1
+  Cu  Cu4  1  0.89237207  0.49984753  0.99921161  1

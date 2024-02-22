@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_ErGaNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70040002
+_cell_length_b   4.99673867
+_cell_length_c   4.99808437
+_cell_angle_alpha   63.24440091
+_cell_angle_beta   68.46489415
+_cell_angle_gamma   68.47194779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErGaNi3
+_chemical_formula_sum   'Er1 Ga1 Ni3'
+_cell_volume   74.46166106
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.67634977  0.98094207  0.98095544  1
+  Ga  Ga1  1  0.28285625  0.37553283  0.37573136  1
+  Ni  Ni2  1  0.96901889  0.95351512  0.42706699  1
+  Ni  Ni3  1  0.56246595  0.59631262  0.59613455  1
+  Ni  Ni4  1  0.96913078  0.42686796  0.95353670  1

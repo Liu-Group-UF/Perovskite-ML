@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LiSnCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07172982
+_cell_length_b   5.07861202
+_cell_length_c   5.08872378
+_cell_angle_alpha   87.35959264
+_cell_angle_beta   87.39209998
+_cell_angle_gamma   87.48050394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSnCl3
+_chemical_formula_sum   'Li1 Sn1 Cl3'
+_cell_volume   130.68212182
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.11217935  0.12349783  0.11236450  1
+  Sn  Sn1  1  0.48195198  0.49396215  0.48382765  1
+  Cl  Cl2  1  0.13786452  0.63743041  0.14552225  1
+  Cl  Cl3  1  0.14292796  0.14992262  0.62748544  1
+  Cl  Cl4  1  0.62507719  0.15518699  0.14080115  1

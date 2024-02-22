@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CaMnP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56299600
+_cell_length_b   4.83366809
+_cell_length_c   5.71923419
+_cell_angle_alpha   114.92666740
+_cell_angle_beta   108.14442704
+_cell_angle_gamma   90.00320389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMnP3
+_chemical_formula_sum   'Ca1 Mn1 P3'
+_cell_volume   83.89052311
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.48802998  0.14167143  0.47558665  1
+  Mn  Mn1  1  0.17679867  0.83102223  0.85322675  1
+  P  P2  1  0.75128243  0.65696850  0.00236042  1
+  P  P3  1  0.75148002  0.15412005  0.00267066  1
+  P  P4  1  0.95693618  0.61021841  0.41189933  1

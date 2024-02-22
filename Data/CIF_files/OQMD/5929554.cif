@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PrReAg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.89437653
+_cell_length_b   5.55858666
+_cell_length_c   6.92822951
+_cell_angle_alpha   72.42287874
+_cell_angle_beta   78.43571041
+_cell_angle_gamma   76.09225009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrReAg3
+_chemical_formula_sum   'Pr1 Re1 Ag3'
+_cell_volume   102.15675409
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.75172177  0.47722048  0.11604268  1
+  Ag  Ag1  1  0.84785715  0.00034144  0.42793068  1
+  Ag  Ag2  1  0.07996494  0.45714338  0.47352499  1
+  Pr  Pr3  1  0.41725478  0.08059025  0.89489437  1
+  Re  Re4  1  0.36300455  0.65146634  0.75424682  1

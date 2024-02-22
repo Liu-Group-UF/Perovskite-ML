@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LaCoGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33881559
+_cell_length_b   4.33881494
+_cell_length_c   5.79768374
+_cell_angle_alpha   111.97397123
+_cell_angle_beta   111.97397483
+_cell_angle_gamma   89.99999928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCoGe3
+_chemical_formula_sum   'La1 Co1 Ge3'
+_cell_volume   92.60921960
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.33879549  0.33879549  0.67759098  1
+  Co  Co1  1  0.00391286  0.00391286  0.00782671  1
+  Ge  Ge2  1  0.59702142  0.09702142  0.19404083  1
+  Ge  Ge3  1  0.77114882  0.77114882  0.54229964  1
+  Ge  Ge4  1  0.09702142  0.59702142  0.19404083  1

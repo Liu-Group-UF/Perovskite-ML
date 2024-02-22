@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LiSi3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43879200
+_cell_length_b   3.43879200
+_cell_length_c   6.91976826
+_cell_angle_alpha   104.38734513
+_cell_angle_beta   104.38734513
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSi3Pd
+_chemical_formula_sum   'Li1 Si3 Pd1'
+_cell_volume   76.60976557
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.39459561  0.39459561  0.78919121  1
+  Pd  Pd1  1  0.01519264  0.01519264  0.03038527  1
+  Si  Si2  1  0.58964136  0.58964136  0.17928621  1
+  Si  Si3  1  0.73978334  0.23978508  0.47957017  1
+  Si  Si4  1  0.23978508  0.73978334  0.47957017  1

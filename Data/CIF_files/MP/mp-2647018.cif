@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PmTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92010207
+_cell_length_b   3.92048904
+_cell_length_c   3.92016205
+_cell_angle_alpha   90.00944235
+_cell_angle_beta   89.98357129
+_cell_angle_gamma   90.01410431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PmTiO3
+_chemical_formula_sum   'Pm1 Ti1 O3'
+_cell_volume   60.24785691
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.99906100  0.99982300  0.00011900  1
+  Ti  Ti1  1  0.49957900  0.49347400  0.50164700  1
+  O  O2  1  0.99963000  0.49116500  0.50249200  1
+  O  O3  1  0.49877900  0.99308600  0.50189900  1
+  O  O4  1  0.50074100  0.49116200  0.00175500  1

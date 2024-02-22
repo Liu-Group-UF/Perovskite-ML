@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_DySn3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58981001
+_cell_length_b   6.34955719
+_cell_length_c   6.37336875
+_cell_angle_alpha   60.44572235
+_cell_angle_beta   89.37105758
+_cell_angle_gamma   89.63371104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySn3Mo
+_chemical_formula_sum   'Dy1 Sn3 Mo1'
+_cell_volume   126.36338710
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.36938387  0.97965101  0.00637458  1
+  Mo  Mo1  1  0.36669721  0.31188246  0.34486565  1
+  Sn  Sn2  1  0.85920353  0.49250327  0.53031640  1
+  Sn  Sn3  1  0.86752747  0.94733247  0.53283448  1
+  Sn  Sn4  1  0.87403226  0.49586865  0.98230523  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsErCu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.32034072
+_cell_length_b   6.55375305
+_cell_length_c   6.55542092
+_cell_angle_alpha   60.07325172
+_cell_angle_beta   87.84242029
+_cell_angle_gamma   87.69819765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsErCu3
+_chemical_formula_sum   'Cs1 Er1 Cu3'
+_cell_volume   123.50474607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.61048620  0.00000003  0.00015316  1
+  Cu  Cu1  1  0.09424854  0.46625184  0.08191301  1
+  Cu  Cu2  1  0.09048730  0.08198379  0.45227856  1
+  Cu  Cu3  1  0.13851300  0.45184361  0.46570597  1
+  Er  Er4  1  0.60645684  0.66668091  0.66658898  1

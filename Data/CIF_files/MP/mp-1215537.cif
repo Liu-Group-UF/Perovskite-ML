@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_YbZnGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09945897
+_cell_length_b   4.09945897
+_cell_length_c   6.20419016
+_cell_angle_alpha   70.67655779
+_cell_angle_beta   70.67655779
+_cell_angle_gamma   89.95941806
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbZnGa3
+_chemical_formula_sum   'Yb1 Zn1 Ga3'
+_cell_volume   92.15297989
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.99955483  0.99955483  0.00082696  1
+  Zn  Zn1  1  0.38886420  0.38886420  0.22196231  1
+  Ga  Ga2  1  0.60765634  0.60765634  0.78513505  1
+  Ga  Ga3  1  0.75193345  0.25199118  0.49603684  1
+  Ga  Ga4  1  0.25199118  0.75193345  0.49603684  1

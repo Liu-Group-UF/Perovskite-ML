@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsHgI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06337444
+_cell_length_b   6.06337444
+_cell_length_c   6.06337457
+_cell_angle_alpha   89.49554988
+_cell_angle_beta   89.49554988
+_cell_angle_gamma   89.49555901
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsHgI3
+_chemical_formula_sum   'Cs1 Hg1 I3'
+_cell_volume   222.89122477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00010949  0.00010949  0.00010949  1
+  Hg  Hg1  1  0.48304201  0.48304201  0.48304191  1
+  I  I2  1  0.99165965  0.50659896  0.50659956  1
+  I  I3  1  0.50659896  0.99165965  0.50659956  1
+  I  I4  1  0.50659969  0.50659969  0.99165878  1

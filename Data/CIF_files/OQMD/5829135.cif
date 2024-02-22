@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaNdSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41213500
+_cell_length_b   7.41213500
+_cell_length_c   7.41213500
+_cell_angle_alpha   145.48425116
+_cell_angle_beta   145.48425116
+_cell_angle_gamma   49.61346315
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNdSi3
+_chemical_formula_sum   'Ba1 Nd1 Si3'
+_cell_volume   130.13715602
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.97396350  0.97396350  0.00000000  1
+  Nd  Nd1  1  0.64755766  0.64755766  0.00000000  1
+  Si  Si2  1  0.39827420  0.39827420  0.00000000  1
+  Si  Si3  1  0.79510870  0.29510848  0.50000022  1
+  Si  Si4  1  0.29510848  0.79510870  0.50000022  1

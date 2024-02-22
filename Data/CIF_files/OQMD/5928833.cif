@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NaTi3V
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.73399452
+_cell_length_b   5.07730981
+_cell_length_c   6.93933793
+_cell_angle_alpha   68.56757779
+_cell_angle_beta   79.92417595
+_cell_angle_gamma   89.64377997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTi3V
+_chemical_formula_sum   'Na1 Ti3 V1'
+_cell_volume   88.10806675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.96854736  0.73515436  0.73255085  1
+  Ti  Ti1  1  0.17577761  0.51448941  0.16988180  1
+  Ti  Ti2  1  0.70209590  0.95987387  0.27720840  1
+  Ti  Ti3  1  0.51646029  0.33519041  0.53132214  1
+  V  V4  1  0.51048891  0.12186613  0.95586908  1

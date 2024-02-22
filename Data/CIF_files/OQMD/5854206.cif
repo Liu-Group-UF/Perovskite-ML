@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Hf3HgC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.17957300
+_cell_length_b   10.17957300
+_cell_length_c   10.17957300
+_cell_angle_alpha   18.52279554
+_cell_angle_beta   18.52279554
+_cell_angle_gamma   18.52279554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3HgC
+_chemical_formula_sum   'Hf3 Hg1 C1'
+_cell_volume   92.99714787
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.10070299  0.10070299  0.10070299  1
+  Hf  Hf1  1  0.30460839  0.30460839  0.30460839  1
+  Hf  Hf2  1  0.47340238  0.47340238  0.47340238  1
+  Hf  Hf3  1  0.72128388  0.72128388  0.72128388  1
+  Hg  Hg4  1  0.88942268  0.88942268  0.88942268  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Li3PrNd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55368926
+_cell_length_b   6.37357786
+_cell_length_c   6.52908676
+_cell_angle_alpha   61.84180699
+_cell_angle_beta   75.35073198
+_cell_angle_gamma   74.82660939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3PrNd
+_chemical_formula_sum   'Li3 Pr1 Nd1'
+_cell_volume   124.37138908
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75689912  0.45800973  0.09129748  1
+  Li  Li1  1  0.10940536  0.43923188  0.40300569  1
+  Li  Li2  1  0.73896338  0.10209347  0.48470290  1
+  Nd  Nd3  1  0.48101461  0.00573776  0.03257096  1
+  Pr  Pr4  1  0.37352642  0.66153004  0.65517887  1

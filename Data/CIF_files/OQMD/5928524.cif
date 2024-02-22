@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ba3AlSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91804596
+_cell_length_b   5.96071052
+_cell_length_c   8.25432925
+_cell_angle_alpha   102.82059201
+_cell_angle_beta   90.23690176
+_cell_angle_gamma   90.28641645
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3AlSi
+_chemical_formula_sum   'Ba3 Al1 Si1'
+_cell_volume   187.96339666
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.39264569  0.97238675  0.96104586  1
+  Ba  Ba1  1  0.89872709  0.46307917  0.01452457  1
+  Ba  Ba2  1  0.89134127  0.07129165  0.34902088  1
+  Ba  Ba3  1  0.88509894  0.66718578  0.63840404  1
+  Si  Si4  1  0.39199106  0.15941557  0.70376337  1

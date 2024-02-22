@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_SmZrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18557600
+_cell_length_b   4.19615100
+_cell_length_c   4.18557656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.04108508
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmZrO3
+_chemical_formula_sum   'Sm1 Zr1 O3'
+_cell_volume   73.46593370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.03460611  0.50000107  0.40433946  1
+  O  O1  1  0.53506380  0.00000000  0.46493826  1
+  O  O2  1  0.59566121  0.50000107  0.96539476  1
+  Sm  Sm3  1  0.91979839  0.00000000  0.08020233  1
+  Zr  Zr4  1  0.52187466  0.50000107  0.47812521  1

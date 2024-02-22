@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsNdCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52962931
+_cell_length_b   5.52962931
+_cell_length_c   5.52962873
+_cell_angle_alpha   89.95559801
+_cell_angle_beta   89.95559801
+_cell_angle_gamma   89.95559733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNdCl3
+_chemical_formula_sum   'Cs1 Nd1 Cl3'
+_cell_volume   169.07820094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.51061374  0.51061374  0.01020095  1
+  Cl  Cl1  1  0.51061472  0.01020063  0.51061308  1
+  Cl  Cl2  1  0.01020063  0.51061472  0.51061308  1
+  Cs  Cs3  1  0.00218675  0.00218675  0.00218675  1
+  Nd  Nd4  1  0.51038607  0.51038607  0.51038618  1

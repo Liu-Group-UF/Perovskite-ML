@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_GeRuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94619400
+_cell_length_b   3.94980500
+_cell_length_c   3.94980508
+_cell_angle_alpha   90.96833453
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeRuO3
+_chemical_formula_sum   'Ge1 Ru1 O3'
+_cell_volume   61.55562203
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.00000000  0.90619696  0.09380030  1
+  O  O1  1  0.50000076  0.03323523  0.41920967  1
+  O  O2  1  0.00000000  0.56714530  0.43285279  1
+  O  O3  1  0.50000076  0.58079135  0.96676551  1
+  Ru  Ru4  1  0.50000076  0.51962947  0.48036825  1

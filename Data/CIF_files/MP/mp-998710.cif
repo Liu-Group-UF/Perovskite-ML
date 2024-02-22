@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TlHgF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52653326
+_cell_length_b   4.51932978
+_cell_length_c   4.54015546
+_cell_angle_alpha   89.71822330
+_cell_angle_beta   88.13129338
+_cell_angle_gamma   89.59889530
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlHgF3
+_chemical_formula_sum   'Tl1 Hg1 F3'
+_cell_volume   92.82479949
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.03809855  0.97123525  0.93639211  1
+  Hg  Hg1  1  0.51116306  0.49170593  0.47164122  1
+  F  F2  1  0.46253014  0.99629316  0.53988344  1
+  F  F3  1  0.99660577  0.52579290  0.55417862  1
+  F  F4  1  0.43160448  0.51497374  0.98790361  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CuAs3C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00220550
+_cell_length_b   5.35237525
+_cell_length_c   6.13859490
+_cell_angle_alpha   69.68214844
+_cell_angle_beta   79.73027990
+_cell_angle_gamma   89.63516516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAs3C
+_chemical_formula_sum   'Cu1 As3 C1'
+_cell_volume   90.85634683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.87608821  0.99826063  0.39927826  1
+  As  As1  1  0.80608985  0.30172729  0.66662807  1
+  As  As2  1  0.20952365  0.62853542  0.91938363  1
+  C  C3  1  0.79083331  0.67907235  0.68915438  1
+  Cu  Cu4  1  0.19106175  0.05916773  0.99215509  1

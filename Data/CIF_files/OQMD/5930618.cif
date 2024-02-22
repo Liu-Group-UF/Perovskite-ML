@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbAs3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05856695
+_cell_length_b   5.52837793
+_cell_length_c   6.61787590
+_cell_angle_alpha   89.46798328
+_cell_angle_beta   89.86544428
+_cell_angle_gamma   89.69833084
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAs3O
+_chemical_formula_sum   'Rb1 As3 O1'
+_cell_volume   111.89442368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.11642744  0.57858211  0.44768829  1
+  As  As1  1  0.13686351  0.04124160  0.61276240  1
+  As  As2  1  0.11505643  0.49166430  0.80500508  1
+  O  O3  1  0.12954920  0.22013699  0.38010611  1
+  Rb  Rb4  1  0.62850952  0.00161384  0.08780107  1

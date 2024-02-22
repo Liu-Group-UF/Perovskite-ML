@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Gd3ErW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61263498
+_cell_length_b   6.50796653
+_cell_length_c   6.51392064
+_cell_angle_alpha   86.35086185
+_cell_angle_beta   73.91290864
+_cell_angle_gamma   73.92132341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3ErW
+_chemical_formula_sum   'Gd3 Er1 W1'
+_cell_volume   141.38070445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.93661171  0.24726396  0.59980671  1
+  Gd  Gd1  1  0.59687162  0.40485758  0.11760380  1
+  Gd  Gd2  1  0.78061869  0.88732740  0.26899039  1
+  Gd  Gd3  1  0.12150828  0.72694938  0.74677830  1
+  W  W4  1  0.35743955  0.06695787  0.93357274  1

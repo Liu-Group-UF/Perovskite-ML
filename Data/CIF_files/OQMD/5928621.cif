@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ca3PtSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87631500
+_cell_length_b   6.76363331
+_cell_length_c   6.96869015
+_cell_angle_alpha   61.47394105
+_cell_angle_beta   87.81546379
+_cell_angle_gamma   80.82227721
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3PtSe
+_chemical_formula_sum   'Ca3 Pt1 Se1'
+_cell_volume   158.31700471
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.02542966  0.99953833  0.33912523  1
+  Ca  Ca1  1  0.26030048  0.35945279  0.63870852  1
+  Ca  Ca2  1  0.10078677  0.67113799  0.98766733  1
+  Pt  Pt3  1  0.63229263  0.67085926  0.65972116  1
+  Se  Se4  1  0.52138483  0.96564881  0.04153808  1

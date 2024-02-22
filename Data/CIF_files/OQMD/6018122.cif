@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NbVO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97294500
+_cell_length_b   4.09093700
+_cell_length_c   4.09093673
+_cell_angle_alpha   97.63339642
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbVO3
+_chemical_formula_sum   'Nb1 V1 O3'
+_cell_volume   65.90105355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.53980705  0.46019369  1
+  O  O1  1  0.00000000  0.04834867  0.41675504  1
+  O  O2  1  0.50000189  0.54805837  0.45194151  1
+  O  O3  1  0.00000000  0.58324547  0.95164753  1
+  V  V4  1  0.50000189  0.88754091  0.11246252  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CoGe3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27773813
+_cell_length_b   6.27773813
+_cell_length_c   6.27773813
+_cell_angle_alpha   141.90531663
+_cell_angle_beta   141.90531663
+_cell_angle_gamma   54.97144941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoGe3Rh
+_chemical_formula_sum   'Co1 Ge3 Rh1'
+_cell_volume   93.50184276
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.91100449  0.91100449  0.00000000  1
+  Ge  Ge1  1  0.45452409  0.45452409  0.00000000  1
+  Ge  Ge2  1  0.78994425  0.28994313  0.50000112  1
+  Ge  Ge3  1  0.28994313  0.78994425  0.50000112  1
+  Rh  Rh4  1  0.66958587  0.66958587  0.00000000  1

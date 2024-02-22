@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_YbGdSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37273801
+_cell_length_b   6.36836593
+_cell_length_c   6.37306856
+_cell_angle_alpha   60.06391328
+_cell_angle_beta   89.89827445
+_cell_angle_gamma   89.96848408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbGdSi3
+_chemical_formula_sum   'Yb1 Gd1 Si3'
+_cell_volume   118.62287945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.66416675  0.33337633  0.33334105  1
+  Si  Si1  1  0.15635633  0.54923819  0.53531534  1
+  Si  Si2  1  0.15974697  0.91590076  0.54944228  1
+  Si  Si3  1  0.15919069  0.53575737  0.91601658  1
+  Yb  Yb4  1  0.40072894  0.99896850  0.99928440  1

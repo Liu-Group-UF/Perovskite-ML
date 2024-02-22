@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KSc3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02930179
+_cell_length_b   5.39024065
+_cell_length_c   6.79284070
+_cell_angle_alpha   66.74558266
+_cell_angle_beta   89.93672722
+_cell_angle_gamma   89.96571417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSc3Si
+_chemical_formula_sum   'K1 Sc3 Si1'
+_cell_volume   135.54751338
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.51085581  0.23693744  0.32573824  1
+  Sc  Sc1  1  0.00741864  0.71729930  0.36584564  1
+  Sc  Sc2  1  0.00836483  0.00633276  0.78719847  1
+  Sc  Sc3  1  0.50607726  0.50143416  0.79778974  1
+  Si  Si4  1  0.50747594  0.87116631  0.05683070  1

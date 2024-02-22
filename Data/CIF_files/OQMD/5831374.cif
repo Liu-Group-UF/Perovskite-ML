@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CeEuGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68391050
+_cell_length_b   7.68391050
+_cell_length_c   7.68391050
+_cell_angle_alpha   147.00181562
+_cell_angle_beta   147.00181562
+_cell_angle_gamma   47.36109390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeEuGe3
+_chemical_formula_sum   'Ce1 Eu1 Ge3'
+_cell_volume   134.04301915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.28714490  0.28714490  0.00000000  1
+  Eu  Eu1  1  0.97838505  0.97838505  0.00000000  1
+  Ge  Ge2  1  0.75920457  0.75920457  0.00000000  1
+  Ge  Ge3  1  0.62683212  0.12683252  0.49999960  1
+  Ge  Ge4  1  0.12683252  0.62683212  0.49999960  1

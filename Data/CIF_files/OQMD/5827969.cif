@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LaGa3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13823125
+_cell_length_b   6.13766116
+_cell_length_c   4.38891843
+_cell_angle_alpha   69.05877516
+_cell_angle_beta   69.04487432
+_cell_angle_gamma   41.89635052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGa3Pt
+_chemical_formula_sum   'La1 Ga3 Pt1'
+_cell_volume   102.00650193
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.23904062  0.23904183  0.26095975  1
+  Ga  Ga1  1  0.38863643  0.38863563  0.61136432  1
+  Ga  Ga2  1  0.73904085  0.73904126  0.76096027  1
+  La  La3  1  0.98077644  0.98077564  0.01922430  1
+  Pt  Pt4  1  0.62210507  0.62210428  0.37789567  1

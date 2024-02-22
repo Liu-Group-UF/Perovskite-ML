@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_DyNi3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.76089781
+_cell_length_b   5.58793669
+_cell_length_c   5.63502160
+_cell_angle_alpha   62.50807120
+_cell_angle_beta   76.19900969
+_cell_angle_gamma   85.67552737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyNi3Os
+_chemical_formula_sum   'Dy1 Ni3 Os1'
+_cell_volume   74.83119395
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.54665221  0.99549425  0.00972394  1
+  Ni  Ni1  1  0.07146113  0.93160299  0.53886845  1
+  Ni  Ni2  1  0.98526316  0.50845924  0.56175157  1
+  Ni  Ni3  1  0.30189603  0.56469456  0.90731722  1
+  Os  Os4  1  0.63492654  0.33304381  0.31572777  1

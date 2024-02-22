@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_DyFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98578000
+_cell_length_b   3.81617300
+_cell_length_c   3.98578033
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   93.81395722
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyFeO3
+_chemical_formula_sum   'Dy1 Fe1 O3'
+_cell_volume   60.49114939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.93239553  0.00000000  0.06760452  1
+  Fe  Fe1  1  0.51090159  0.50000092  0.48910058  1
+  O  O2  1  0.03439976  0.50000092  0.42403066  1
+  O  O3  1  0.55333720  0.00000000  0.44666356  1
+  O  O4  1  0.57597076  0.50000092  0.96560357  1

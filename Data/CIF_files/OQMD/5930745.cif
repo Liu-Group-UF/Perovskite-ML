@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TmNbAl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00734449
+_cell_length_b   5.58310465
+_cell_length_c   6.80107254
+_cell_angle_alpha   65.87114391
+_cell_angle_beta   89.05067824
+_cell_angle_gamma   87.81485550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmNbAl3
+_chemical_formula_sum   'Tm1 Nb1 Al3'
+_cell_volume   104.13918396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.10759520  0.44994387  0.08387993  1
+  Al  Al1  1  0.13642312  0.54538867  0.42436996  1
+  Al  Al2  1  0.07776100  0.03994277  0.45343301  1
+  Nb  Nb3  1  0.60864466  0.63179520  0.72063464  1
+  Tm  Tm4  1  0.60977353  0.99965460  0.98435785  1

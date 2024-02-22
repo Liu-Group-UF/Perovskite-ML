@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TmSi3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71846709
+_cell_length_b   5.71846709
+_cell_length_c   5.71846709
+_cell_angle_alpha   137.28557422
+_cell_angle_beta   137.28557422
+_cell_angle_gamma   61.99895586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmSi3Ir
+_chemical_formula_sum   'Tm1 Si3 Ir1'
+_cell_volume   85.03590695
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.35019617  0.35019617  0.00000000  1
+  Si  Si1  1  0.58715328  0.58715328  0.00000000  1
+  Si  Si2  1  0.73519259  0.23519242  0.50000017  1
+  Si  Si3  1  0.23519242  0.73519259  0.50000017  1
+  Tm  Tm4  1  0.00277556  0.00277556  0.00000000  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LaPbN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64796438
+_cell_length_b   4.64796438
+_cell_length_c   4.64796438
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPbN3
+_chemical_formula_sum   'La1 Pb1 N3'
+_cell_volume   100.41263694
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.19489093  0.00000000  0.00000000  1
+  La  La1  1  0.62575621  0.50000000  0.50000000  1
+  N  N2  1  0.41013450  0.00000000  0.50000000  1
+  N  N3  1  0.41013450  0.50000000  0.00000000  1
+  N  N4  1  0.12673092  0.50000000  0.50000000  1

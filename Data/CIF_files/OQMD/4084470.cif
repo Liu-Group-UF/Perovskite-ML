@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_InSiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11122138
+_cell_length_b   7.11286414
+_cell_length_c   4.14230708
+_cell_angle_alpha   90.43271279
+_cell_angle_beta   88.77378627
+_cell_angle_gamma   119.95334329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSiTe3
+_chemical_formula_sum   'In1 Si1 Te3'
+_cell_volume   181.49443706
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.33349018  0.66666502  0.69447381  1
+  Si  Si1  1  0.99942640  0.99994254  0.23527287  1
+  Te  Te2  1  0.34604017  0.34493293  0.20190237  1
+  Te  Te3  1  0.99943190  0.65384701  0.20381829  1
+  Te  Te4  1  0.65501066  0.00131334  0.20472632  1

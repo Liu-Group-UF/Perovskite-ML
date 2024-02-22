@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CeSi3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74128074
+_cell_length_b   5.74128074
+_cell_length_c   5.74128074
+_cell_angle_alpha   135.31148902
+_cell_angle_beta   135.31148902
+_cell_angle_gamma   65.04659940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSi3Pt
+_chemical_formula_sum   'Ce1 Si3 Pt1'
+_cell_volume   92.24869176
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.41444633  0.41444633  0.00000000  1
+  Pt  Pt1  1  0.76655910  0.76655910  0.00000000  1
+  Si  Si2  1  0.01747508  0.01747508  0.00000000  1
+  Si  Si3  1  0.65321530  0.15321452  0.50000078  1
+  Si  Si4  1  0.15321452  0.65321530  0.50000078  1
