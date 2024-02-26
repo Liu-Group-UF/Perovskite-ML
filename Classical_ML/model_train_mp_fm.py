@@ -12,7 +12,6 @@ import pandas as pd
 import numpy as np
 import os
 import json
-# import matplotlib.pyplot as plt
 
 path=os.getcwd()
 parent_directory = os.path.dirname(path.strip())
