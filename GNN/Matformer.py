@@ -163,7 +163,7 @@ class Matformer(nn.Module):
         classification (bool): If True, the model will be configured for a classification task.
     """
 
-    def __init__(self, atom_input_features: int = 4, node_fea: int = 64, edge_fea: int = 9, conv_layers: int = 5, 
+    def __init__(self, atom_input_features: int = 92, node_fea: int = 64, edge_fea: int = 41, conv_layers: int = 5, 
                 hidden_layer: int = 128, heads: int = 4, classification: bool = False):
         super().__init__()
         self.classification = classification
