@@ -90,7 +90,7 @@ class CGConv(MessagePassing):
 class CGCNN(nn.Module):
     '''
     Args: 
-        node_fea_len: length of node feature
+        node_fea_len: length of node feature after embedding
         edge_fea_len: length of edge feature
         orig_atom_fea_len: length of intial input node feature
         num_conv_layer: number of how many CGConv layer will be used 

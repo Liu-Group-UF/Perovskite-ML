@@ -152,8 +152,7 @@ opt_models[model], cv_score, grid_results, y_pred_train, y_pred_test= train_mode
 
 cv_score.name = model
 score_models = score_models.append(cv_score)
-np.save("GBR_mp_train_fm.npy", y_pred_train)
-np.save("GBR_mp_test_fm.npy",y_pred_test)
+
 
 model = 'LGBMRegressor'
 opt_models[model] = LGBMRegressor(random_state=42)
