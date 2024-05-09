@@ -17,4 +17,4 @@ We extract perovskites data from three datasets:
 ![cover](Figures/fig1.png)
 
 ## Name Notation
-file end with fm mean formation energy, bg means band gap.
+File end with `fm` mean formation energy, `bg` means band gap.
