@@ -4,4 +4,4 @@
 
 3. `model_train_mp_fm.py` is an example file used to train model on MP dataset to predict formation energy.
 
-4. Check main.ipython to see how to use each function.
+4. Check CML_main.ipython to see how to use each function.
