@@ -2,7 +2,7 @@ Introduction
 ------------
 1. Here contains all the cif files for three databases.
 2. `data_collect_mp.py` and `data_collection.py` stands for data collection process for MP, OQMD, CMR. This matches first and second steps in figure 1 of paper. 
-3. `data_selection.py` stands for data selection process for MP and OQMD, it matches step 3 and step 4 in figure 1 of paper. 
+3. `data_selection.py` stands for data selection process for MP and OQMD, it matches step 3 (octahedreal motif extraction) and step 4 (prototype strucutre match) in figure 1 of paper. 
 
 Dependencies
 ------------
