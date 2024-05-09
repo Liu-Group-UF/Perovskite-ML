@@ -2,4 +2,6 @@
 
 2. `feature_generation.py` take information from `atom_abs_value.json` and cif file, it then generate features for MP, OQMD and CMR datasets, and save features in '.npy' format.
 
-3. `model_train_mp_fm.py` is an example file used to train model on MP dataset to predict formation energy.  
+3. `model_train_mp_fm.py` is an example file used to train model on MP dataset to predict formation energy.
+
+4. Check main.ipython to see how to use each function.
