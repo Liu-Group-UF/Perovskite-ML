@@ -139,7 +139,7 @@ def get_all_features(database="MP"):
     np.save(database.lower()+"_features.npy",final_feature)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Generate features for classical machine learning models for differenrt databases')
+    parser = argparse.ArgumentParser(description='Generate features for conventional machine learning models for differenrt databases')
     parser.add_argument('-d','--database', choices=['MP','OQMD','CMR'], metavar="", default="MP",
                         help='database to use, i.e., MP, OQMD, CMR')
     args = parser.parse_args()
