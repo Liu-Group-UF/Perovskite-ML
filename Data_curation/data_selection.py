@@ -28,7 +28,7 @@ def get_rid_of_X_3(file):
         output_index.append(i)
     return output_index # output should be a list only contains tow index e.g. [0,1]
 
-def get_octahedral(file_list, file_path="./MP"):    
+def get_octahedral(file_list, file_path="./CIF_files/MP"):    
     cif_list=[]
     for i in sorted(file_list):
         structure=Structure.from_file(os.path.join(file_path,i))
@@ -47,9 +47,9 @@ def get_octahedral(file_list, file_path="./MP"):
     return new_cif_name
 
 # select by using structure match
-def select_by_structure_match(file_list,file_path="./MP/"):
+def select_by_structure_match(file_list,file_path="./CIF_files/MP/"):
     # get prototype
-    prototype_cif=glob("./prototype/*.cif")
+    prototype_cif=glob("./CIF_files/prototype/*.cif")
     # match
     matcher=StructureMatcher()
     mp_new=[]
@@ -84,7 +84,8 @@ def main(): # select crytsal data to get perovskite data with its property and s
     oqmd_id_list=oqmd_total["id"].values.tolist()
     
     mp_selected=select_by_structure_match(get_octahedral(mp_id_list)) # select by octahedral first and then strucutre match
-    oqmd_selected=select_by_structure_match(get_octahedral(oqmd_id_list,file_path="./OQMD"),file_path="./OQMD/")
+    oqmd_selected=select_by_structure_match(get_octahedral(oqmd_id_list,
+                                                       file_path="./CIF_files/OQMD"),file_path="./CIF_files/OQMD")
     # save it to csv file
     # mp
     get_new_csv(mp_selected,mp_total,"band_gap").to_csv("csv_files/mp_bg.csv",index=False)
