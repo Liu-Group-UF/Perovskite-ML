@@ -61,7 +61,7 @@ class Get_feature_and_Load_Data:
         self.root_dir = os.path.dirname(path.strip()) 
         self.dataset = csv_name.split('_')[0].upper() # get name for dataset
         self.max_num_nbr, self.radius = max_num_nbr, radius
-        self.id_and_target = pd.read_csv(self.root_dir+'/Data/csv_files/'+csv_name).values
+        self.id_and_target = pd.read_csv(self.root_dir+'/Data_curation/csv_files/'+csv_name).values
         self.atom_fea = AtomCustomJSONInitializer('atom_init.json')
         self.edge_fea = GaussianDistance(dmin=dmin, dmax=radius, step=step)
     
@@ -72,7 +72,7 @@ class Get_feature_and_Load_Data:
         data_list = []
         ## get atom, bond features and edge index to show the connectivity between atoms
         for index, i in enumerate(id_cif):
-            crystal = Structure.from_file(os.path.join(self.root_dir,'Data/CIF_files',self.dataset,i))
+            crystal = Structure.from_file(os.path.join(self.root_dir,'Data_curation/CIF_files',self.dataset,i))
             atom_fea = np.vstack([self.atom_fea.get_atom_fea(crystal[i].specie.number)
                                   for i in range(len(crystal))])
 
