@@ -1,5 +1,5 @@
 # Perovskite-ML
-Comparative Analysis of Classical Machine Learning and Graph Neural Network Models for Perovskite Property Prediction
+Paper: [Comparative Analysis of Conventional Machine Learning and Graph Neural Network Models for Perovskite Property Prediction](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c03212)
 
 
 ## Workflow
